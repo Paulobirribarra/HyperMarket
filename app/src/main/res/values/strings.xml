@@ -1,0 +1,36 @@
+<resources>
+    <!--Vista de Main    -->
+    <string name="app_name">HyperMarket</string>
+    <string name="txtBienvenida">Listado de compras</string>
+    <string name="btnInicio">Ingresar</string>
+
+    <!--Vista de Listado-->
+    <string name="btnAgregar">Ingresar</string>
+    <string name="txtNombre">Nombre: </string>
+    <string name="txtCategoria">Categoría: </string>
+    <string name="txtPrecio">Precio: </string>
+    <string name="txtCantidad">Cantidad: </string>
+    <string name="txtUbicacion">Ubicación: </string>
+    <string name="txtCodBarra">Código: </string>
+
+    <!--Botones Listado    -->
+    <string name="btnEditar">Editar</string>
+    <string name="btnDetalles">Detalles</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnMaps">Maps</string>
+    <string name="btnInsertar">Agregar</string>
+
+    <!-- Boton Vista ITEM   -->
+    <string name="btnSalirVista">Salir</string>
+    <!--Vista Dialogo-->
+    <string name="btnAgregarDia">Agregar</string>
+    <string name="btnCancelarDia">Cancelar</string>
+
+    <!-- Vista Maps   -->
+    <string name="txtLatitud"> </string>
+    <string name="txtLongitud"> </string>
+    <string name="btnBackVideo">Volver</string>
+
+
+
+</resources>
